@@ -42,9 +42,9 @@ abstract class AdminDAO extends EntityBase
     if($id) $this->read($id);
   }
 
-  // ==========!!!DO NOT PUT YOUR OWN CODE (BUSINESS LOGIC) HERE!!!========== //
-  // EXTEND THIS DAO CLASS WITH YOUR OWN CLASS CONTAINING YOUR BUSINESS LOGIC //
-  //  BECAUSE THIS CLASS FILE WILL BE OVERWRITTEN UPON EACH NEW PHPDAO BUILD  //
-  // ======================================================================== //
+
+
+
+
 }
 
